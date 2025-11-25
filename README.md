@@ -1,27 +1,21 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+Projeto de uma biblioteca de conteúdos desenvolvida em Angular 16, possibilita a postagem de textos como citações de livros, trechos de músicas, frases, etc. O conteúdo é postado em um Mural interativo e com design responsivo.
 
-## Development server
+## Imagens do Projeto
+<div>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+  <img src="https://github.com/user-attachments/assets/62043a1c-71ac-4b44-b9dd-a4a3253921a0" alt="image" width="500" height="250" />
+  <img src="https://github.com/user-attachments/assets/cc83317c-3ccc-407c-a8c3-0e46e1662c72" alt="image" width="500" height="250" />
+  <img src="https://github.com/user-attachments/assets/678b438c-fddf-4942-8cb9-8c50abfacfe0" alt="image" width="500" height="250" />
+  <!-- <img src="https://github.com/user-attachments/assets/ab8c75b2-9cda-4fc0-a5e2-a79401e540c2" alt="image" width="500" height="250" /> -->
+</div>
 
-## Code scaffolding
+## Tecnologias Utilizadas
+<div>
+  <img width="50" height="40" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+  <img width="50" height="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+  <img width="50" height="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
